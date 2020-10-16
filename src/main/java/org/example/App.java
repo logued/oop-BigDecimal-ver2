@@ -51,7 +51,8 @@ public class App {
         // reverted to previous code and added new line
         int x = 0;
         System.out.println("x="+x);
-        int z=0;
+
+
 
     }
 }
