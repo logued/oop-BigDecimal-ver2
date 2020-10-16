@@ -52,6 +52,7 @@ public class App {
         int x = 0;
         System.out.println("x="+x);
 
+    int a = 40;
 
 
     }
