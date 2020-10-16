@@ -48,8 +48,9 @@ public class App {
         BigDecimal bd4 = bd2.add(bd3);
         System.out.println("bd2 + bd3 = " + bd4);
 
-        System.out.println("These lines of code causes an error in teh system");
-        int x=1;
-        int y=x+2;
+        // reverted to previous code and added new line
+        int x = 0;
+        System.out.println("x="+x);
+
     }
 }
