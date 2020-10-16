@@ -53,6 +53,7 @@ public class App {
         System.out.println("x="+x);
 
     int a = 40;
+    double d = 4.5;
 
 
     }
