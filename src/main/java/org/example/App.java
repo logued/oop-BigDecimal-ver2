@@ -42,5 +42,11 @@ public class App {
         // Best initialize with a String for accuracy
         BigDecimal bd2 = new BigDecimal("12.1");
         System.out.println("bd2  = " + bd2 );
+
+        BigDecimal bd3 = new BigDecimal("1111222333444555666777888999000111222333444555666777888999");
+        System.out.println("bd3  = " + bd3 );
+        BigDecimal bd4 = bd2.add(bd3);
+        System.out.println("bd2 + bd3 = " + bd4);
+
     }
 }
