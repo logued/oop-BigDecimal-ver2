@@ -54,6 +54,8 @@ public class App {
 
     int a = 40;
     double d = 4.5;
+        // edit made at the remote side
+        d = d +1.0;
 
 
     }
